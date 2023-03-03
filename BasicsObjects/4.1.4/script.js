@@ -1,4 +1,4 @@
-'use stcrict';
+'use strict';
 
 let salaries = {
     John: 100,

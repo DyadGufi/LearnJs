@@ -1,5 +1,4 @@
-'use stcrict';
-
+'use strict';
 const user ={
     name: "John"
 };

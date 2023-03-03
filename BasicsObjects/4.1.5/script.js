@@ -1,4 +1,4 @@
-'use stcrict';
+'use strict';
 
 let menu = {
     width: 200,
